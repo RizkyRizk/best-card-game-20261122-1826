@@ -1,0 +1,1 @@
+{"description":"Ember Court — a duel of cinder and flame. A make.fun best-card-game-20261122-1826 entry.","license":"MIT","name":"ember-court","private":true,"scripts":{"serve":"node serve.ts","shots":"node tools/shots.mjs","test":"node --test tests/engine.test.mjs"},"type":"module","version":"1.0.0"}
